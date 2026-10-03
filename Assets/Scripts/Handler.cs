@@ -8,9 +8,9 @@ public class Handler : MonoBehaviour
     {
         float roll = Random.value;
 
-        if (roll <= clickedCube.SplitChance)
-        {
+        //if (roll <= clickedCube.SplitChance)
+        //{
 
-        }
+        //}
     }
 }
