@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|d:\\game development\\projects\\unity projects\\3d\\3d boom cubes\\assets\\scripts\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|d:\\game development\\projects\\unity projects\\3d\\3d boom cubes\\assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|d:\\game development\\projects\\unity projects\\3d\\3d boom cubes\\assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|d:\\game development\\projects\\unity projects\\3d\\3d boom cubes\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\assets\\scripts\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\assets\\scripts\\raycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\assets\\scripts\\raycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\InputReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InputReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|d:\\game development\\projects\\unity projects\\3d\\3d boom cubes\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\InputReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3978EAA8-7698-34FE-22E7-DB0CD7517DF3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\InputReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Handler.cs",
-              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Handler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Handler.cs",
-              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Handler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Handler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorChanger.cs",
+              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\ColorChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T06:26:09.513Z",
+              "WhenOpened": "2026-10-10T23:16:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exploder.cs",
+              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Exploder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exploder.cs",
+              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Exploder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exploder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:15:43.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T08:32:29.062Z",
               "EditorCaption": ""
             },
             {
@@ -49,36 +87,47 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cube.cs",
               "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Cube.cs",
               "RelativeToolTip": "Assets\\Scripts\\Cube.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T14:20:23.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Handler.cs",
+              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Handler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:53:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "InputReader.cs",
               "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\InputReader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputReader.cs",
               "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\InputReader.cs",
               "RelativeToolTip": "Assets\\Scripts\\InputReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T06:19:15.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T07:34:58.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Raycast.cs",
-              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Raycast.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Raycast.cs",
-              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Raycast.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Raycast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Raycaster.cs",
+              "DocumentMoniker": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Raycaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Raycaster.cs",
+              "ToolTip": "D:\\Game Development\\Projects\\Unity Projects\\3D\\3D boom cubes\\Assets\\Scripts\\Raycaster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Raycaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T13:47:30.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T07:34:58.772Z"
             }
           ]
         }
