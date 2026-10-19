@@ -27,7 +27,6 @@ public class Raycaster : MonoBehaviour
             if (hit.collider.TryGetComponent<Cube>(out Cube clickedCube))
             {
                 OnCubeHit?.Invoke(clickedCube);
-                Debug.Log("Попадание");
             }
         }
     }

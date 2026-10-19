@@ -3,18 +3,18 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private Handler _handler;
+    [SerializeField] private Controller _controller;
 
-    public event Action<Cube> CubeCreated;
+    public event Action CubesCreated;
 
     private void OnEnable()
     {
-        _handler.CubeSplitted += SpawnCubes;
+        _controller.CubeSplitted += SpawnCubes;
     }
 
     private void OnDisable()
     {
-        _handler.CubeSplitted -= SpawnCubes;
+        _controller.CubeSplitted -= SpawnCubes;
     }
 
     private void SpawnCubes (Cube cube)

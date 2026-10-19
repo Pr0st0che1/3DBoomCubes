@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Handler : MonoBehaviour
+public class Controller : MonoBehaviour
 {
     [SerializeField] private Raycaster _raycaster;
 
@@ -24,11 +24,8 @@ public class Handler : MonoBehaviour
         if (roll <= cube.SplitChance)
         {
             CubeSplitted?.Invoke(cube);
-            Destroy(cube);
         }
-        else
-        {
-            Destroy(cube);
-        }
+
+        Destroy(cube.gameObject);
     }
 }
