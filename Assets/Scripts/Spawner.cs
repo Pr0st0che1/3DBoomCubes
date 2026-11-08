@@ -28,5 +28,7 @@ public class Spawner : MonoBehaviour
             Cube newCube = Instantiate(cube, cube.transform.position, cube.transform.rotation);
             newCube.Init(newSplitChance);
         }
+
+        CubesCreated?.Invoke();
     }
 }
